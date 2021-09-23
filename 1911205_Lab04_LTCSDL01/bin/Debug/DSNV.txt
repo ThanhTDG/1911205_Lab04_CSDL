@@ -1,0 +1,9 @@
+1910001*Nguyễn Hữu Đức Thanh*07/02/2001*273 Lê Lai Phường 123*CTK46**1*1910001@dlu.edu.vn*0587058712
+1920002*Nguyễn Kim Đức Thanh*10/02/2001*273 Phan Bội Châu Phường 123*CTK43**1*1920002@dlu.edu.vn*0120058058
+1910303*Nguyễn Kim Long*15/12/2000*273 Lê Lai Phường 4*CTK46**1*1910303@dlu.edu.vn*0120058712
+1910104*Lê Ngọc Hải Thanh*10/01/2001*54 Phan Đình Phùng Phường 3*CTK44**0*1910104@dlu.edu.vn*0871205871
+1920105*Đặng Như Thảo*07/05/2001*154 Lê Lợi*CTK44**1*1920105@dlu.edu.vn*0187128712
+1940006*Trần Phụng Đức*07/08/2001*114 3 tháng 2 Phường 7*CTK45**0*1940006@dlu.edu.vn*0120718712
+1910088*Vũ Hồng Bảo*12/02/2001*84 Lê lợiPhường 5*CTK44**0*1910088@dlu.edu.vn*0120058712
+1910009*Nguyễn Thị Minh*12/09/2001*12 Ngẫu Hứng Phường 6*CTK43**1*1910009@dlu.edu.vn*012045678
+1910010*Phan Ngọc Như*07/11/2000*97 Trại Mát 4*CTK46**0*1910010@dlu.edu.vn*0124567714
